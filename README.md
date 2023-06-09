@@ -18,7 +18,7 @@
 python aes_tool.py [arguments]
 Replace [arguments] with one of the options listed above.
 
-! If running the program on Windows, it is recommended to use Command Prompt or PowerShell instead of Git Bash or other alternative terminals as they have been known to cause issues with the pyperclip library !
+- If running the program on Windows, it is recommended to use Command Prompt or PowerShell instead of Git Bash or other alternative terminals as they have been known to cause issues with the pyperclip library
 
 *Examples*
 - Encrypting a file content:
